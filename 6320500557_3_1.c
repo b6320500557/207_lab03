@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main()
 {
-    int x[5][4],i,j,sum[5]={0},max=0,loca=0;
+    int x[5][4],i,j,sum[5]={0},max=0;
     for(i=0; i<5; i++)
     {
         for(j=0; j<4; j++)
